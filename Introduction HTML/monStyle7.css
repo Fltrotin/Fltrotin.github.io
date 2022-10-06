@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 oct. 2022, 15:35:47
+    Author     : florentin.trotin
+*/
+div.relative{
+    position: relative;
+    border: 3px solid lightgreen;
+    left:30px;
+    padding:20px;
+    width: 310px;
+}
+
+div.statique {
+    position: statique;
+    padding:20px;
+    border: 3px solid khaki;
+    width:310px;
+}
