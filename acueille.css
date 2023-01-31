@@ -15,9 +15,29 @@ p1{
 p2{
 	color: white;
 	font-size: large;
+	position: absolute;
+	bottom: 300px;
+	right: 0px;
 }
-img {
+p3{
+	color: white;
+	font-size: large;
+	position: absolute;
+	bottom: 150px ;
+	left: 0px;
+}
+.logo_Artémis {	
     position: absolute;
-    bottom: 375;
-    right: 50;
+    bottom: 375px;
+    right: 50px;
+}
+.sls{
+	position: absolute;
+	bottom: 225px;
+	left: 100px;
+}
+.logo_ArtémisII {
+	position: absolute;
+	bottom: 50px ;
+	right: 100px;
 }
