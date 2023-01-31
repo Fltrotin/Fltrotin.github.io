@@ -1,0 +1,23 @@
+body{
+	background-image: url("moon.jpg");
+    background-size: cover;
+}
+
+#menu {
+	background: darkorange;
+    text-align: center;
+    width: 100%;
+}
+p1{
+	color: white;
+	font-size: large;
+}
+p2{
+	color: white;
+	font-size: large;
+}
+img {
+    position: absolute;
+    bottom: 375;
+    right: 50;
+}
