@@ -1,0 +1,52 @@
+body{
+	background-image: url("moon.jpg");
+    background-size: cover;
+}
+
+#menu {
+	background: darkorange;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+a{
+    color: white;
+    font-style: italic;
+}
+
+p1{
+	color: white;
+	font-size: large;
+}
+
+p2{
+    color: white;
+    font-size: large;
+    font-style: oblique;
+    
+}
+
+.home{
+	position: absolute;
+	left: 20px;
+	top: 10px;
+}
+
+.shéma1{
+    position: absolute;
+    left: 20px ;
+    bottom: 70px ;
+}
+
+.shéma2{
+    position: absolute;
+    right: 20px;
+    bottom: 70px;
+}
+
+.contact{
+	position: absolute;
+	right: 20px;
+	top: 3px;	
+}

@@ -1,0 +1,56 @@
+body{
+	background-image: url("moon.jpg");
+    background-size: cover;
+}
+
+#menu {
+	background: darkorange;
+	color: white;
+    text-align: center;
+    width: 100%;
+}
+p1{
+	color: white;
+	font-size: large;
+}
+p2{
+	color: white;
+	font-size: large;
+	position: absolute;
+	bottom: 300px;
+	right: 0px;
+}
+p3{
+	color: white;
+	font-size: large;
+	position: absolute;
+	bottom: 150px ;
+	left: 0px;
+}
+.logo_Artémis {	
+    position: absolute;
+    bottom: 375px;
+    right: 50px;
+}
+.sls{
+	position: absolute;
+	bottom: 225px;
+	left: 100px;
+}
+.logo_ArtémisII {
+	position: absolute;
+	bottom: 50px ;
+	right: 100px;
+}
+
+.home{
+	position: absolute;
+	left: 20px;
+	top: 10px;
+}
+
+.contact{
+	position: absolute;
+	right: 20px;
+	top: 3px;	
+}

@@ -1,0 +1,47 @@
+body{
+	background-image: url("moon.jpg");
+    background-size: cover;
+}
+
+#menu {
+	background: darkorange;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+p1{
+    color: white;
+	font-size: large;
+}
+p2{
+	color: white;
+	font-size: large;
+}
+p3{
+	color: white;
+	font-size: large;
+}
+
+.map {
+	display: block;
+  width: 30%;
+  margin: auto;
+}
+
+.home{
+	position: absolute;
+	left: 20px;
+	top: 10px;
+}
+
+.contact{
+	position: absolute;
+	right: 20px;
+	top: 3px;	
+}
+
+a{
+    color: white;
+    font-style: italic;
+}
